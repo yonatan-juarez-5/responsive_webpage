@@ -1,0 +1,12 @@
+# Responsive web page
+#disclaimer: can share source code upon request
+
+#Used AJAX, Json technologies and a combination of HTML5, Boostrap, and Angular on the client side
+
+#Used Node.js Express framework on the server side
+#Used Bootstrap to make a responsive front end
+
+#MongoDB, NoSQL database used to handle wish list storing
+
+#GCP is used to store Node.js server in the cloud
+Used eBay API, and Google Customized Search API to handle different search requests
